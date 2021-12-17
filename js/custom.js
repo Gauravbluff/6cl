@@ -4,7 +4,7 @@ $('.banner-main').owlCarousel({
     mouseDrag: true,
     touchDrag: true,
     pullDrag: true,
-    autoplay:false,
+    autoplay:true,
     animateOut: 'fadeOut',
     nav:true,
     responsive:{
@@ -25,6 +25,7 @@ $('.college').owlCarousel({
     loop:true,
     margin:10,
     nav:true,
+    autoplay:true,
     responsive:{
         0:{
             items:1
