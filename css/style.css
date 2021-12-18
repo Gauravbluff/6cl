@@ -72,6 +72,7 @@
 /* COMMON CSS END */
 
 /*NAVIGATION START*/
+
     .navbar-brand span {    color: #fff !important;    position: absolute;   top: 17px;    left: 108px;    font-size: 17px;}
     .nav-item {    padding-right: 23px;}
     .dropdown-menu.show {    position: absolute;   left: -29% !important;}
@@ -111,7 +112,7 @@
 /* BANNER CSS END */
 
 /*mission start*/
-    .col1 {    background: #DD5900;    padding: 17px;}
+    .col1 {    background: #15b597;    padding: 17px;}
     .col2 { background: #07294d; padding: 17px;}
     .appoint-inner-div h4 {    color: #fff;     font-weight: 900;}
     .appoint-inner-div p {   color: #fff;       font-size: 14px;}
@@ -177,7 +178,7 @@
 /*akash end*/
 
 
-.footer-sec .section-padding {    padding: 60px 0;}
+.footer-sec .section-padding {    padding: 20px 0;}
 .footer-sec .bottom {    background-color: #0a1c2e;}
 .footer-sec .bottom .copyright {    color: #e5e5e5;    font-weight: 600;}
 .footer-sec .copyright a { text-decoration: none;   color: #f2ff49;    margin-left: 3px;    padding-right: 3px;}
@@ -285,3 +286,82 @@
 .inner-mbbs-sec { padding: 0 0 45px;}
 .brief-mbbs-div-img img {    box-shadow: 0 0 24px 4px #cbcbcb;    border-radius: 0 73px 0 140px;}
 /*SERVICES PAGE END*/
+
+
+.bottom-form { background-color: #0a1c2e;}
+.bottom-form .card {
+    color: white;
+     background-color: #0a1c2e;
+    margin-top: 50px;
+    border: none
+}
+
+.bottom-form .head1 {
+    font-weight: 900;
+    font-size: 30px
+}
+
+.bottom-form .bdr {
+    border-bottom: 1.5px solid #FFB74D;
+    width: 65px;
+    margin-right: auto;
+    margin-left: auto
+}
+
+.bottom-form .card-footer {
+    justify-content: space-between;
+    border: none;
+    background: none;
+    border-bottom: 0.5px solid #9E9E9E
+}
+
+.bottom-form .footer-right>i {
+    margin-left: 15px
+}
+
+.bottom-form .fa-hand-holding-usd {
+    color: #FFB74D
+}
+
+.bottom-form .fa-handshake {
+    color: #FFB74D
+}
+
+.bottom-form .card-title {
+    margin-bottom: .75rem;
+    font-weight: 900;
+    font-size: 15px;
+    margin-top: 1.75rem
+}
+
+.bottom-form .learn-more {
+    color: #FFB74D
+}
+
+.bottom-form .fa-angle-right {
+    margin-left: 10px
+}
+
+.bottom-form .fa-3x {
+    color: #FFB74D
+}
+
+.bottom-form .card-content {
+    padding-right: 40px;
+    padding-left: 30px;
+    padding-bottom: 10px;
+    padding-top: 10px
+}
+
+.bottom-form .card-content>p {
+    color: #9E9E9E
+}
+
+.bottom-form .heading {
+    position: relative;
+    top: 75px
+}
+
+.bottom-form .follow-text {
+    color: #9E9E9E
+}
